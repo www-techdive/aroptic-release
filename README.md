@@ -1,6 +1,7 @@
 # Aroptic — mises à jour
 
-Ce dépôt contient uniquement les versions publiées d'Aroptic, dans l'onglet **Releases**.
-L'application les vérifie au démarrage et propose la mise à jour d'un clic.
+Version publiée : **0.0.2** (21/11/2026)
+
+Ce dépôt contient uniquement les versions publiées d'Aroptic. Les postes des magasins les téléchargent d'eux-mêmes et proposent la mise à jour d'un clic.
 
 Le code source n'est pas ici.
